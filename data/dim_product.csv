@@ -1,0 +1,5 @@
+product_id,product_name,category_id,unit_price
+P101,Milk,C01,45
+P102,Bread,C01,30
+P201,Tea,C02,120
+P202,Coffee,C02,180

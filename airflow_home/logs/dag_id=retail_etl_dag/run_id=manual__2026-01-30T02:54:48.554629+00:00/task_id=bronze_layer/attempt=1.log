@@ -1,0 +1,13 @@
+[2026-01-30T08:24:53.577+0530] {taskinstance.py:1157} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: retail_etl_dag.bronze_layer manual__2026-01-30T02:54:48.554629+00:00 [queued]>
+[2026-01-30T08:24:53.583+0530] {taskinstance.py:1157} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: retail_etl_dag.bronze_layer manual__2026-01-30T02:54:48.554629+00:00 [queued]>
+[2026-01-30T08:24:53.583+0530] {taskinstance.py:1359} INFO - Starting attempt 1 of 1
+[2026-01-30T08:24:53.596+0530] {taskinstance.py:1380} INFO - Executing <Task(PythonOperator): bronze_layer> on 2026-01-30 02:54:48.554629+00:00
+[2026-01-30T08:24:53.599+0530] {standard_task_runner.py:57} INFO - Started process 109317 to run task
+[2026-01-30T08:24:53.602+0530] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'retail_etl_dag', 'bronze_layer', 'manual__2026-01-30T02:54:48.554629+00:00', '--job-id', '30', '--raw', '--subdir', 'DAGS_FOLDER/retail_etl_dag.py', '--cfg-path', '/tmp/tmpozmdd4c6']
+[2026-01-30T08:24:53.603+0530] {standard_task_runner.py:85} INFO - Job 30: Subtask bronze_layer
+[2026-01-30T08:24:53.695+0530] {task_command.py:415} INFO - Running <TaskInstance: retail_etl_dag.bronze_layer manual__2026-01-30T02:54:48.554629+00:00 [running]> on host 92839NehaDBDA
+[2026-01-30T08:24:53.731+0530] {taskinstance.py:1660} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='sunbeam' AIRFLOW_CTX_DAG_ID='retail_etl_dag' AIRFLOW_CTX_TASK_ID='bronze_layer' AIRFLOW_CTX_EXECUTION_DATE='2026-01-30T02:54:48.554629+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2026-01-30T02:54:48.554629+00:00'
+[2026-01-30T08:24:53.732+0530] {python.py:194} INFO - Done. Returned value was: None
+[2026-01-30T08:24:53.734+0530] {taskinstance.py:1398} INFO - Marking task as SUCCESS. dag_id=retail_etl_dag, task_id=bronze_layer, execution_date=20260130T025448, start_date=20260130T025453, end_date=20260130T025453
+[2026-01-30T08:24:53.773+0530] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2026-01-30T08:24:53.846+0530] {taskinstance.py:2776} INFO - 1 downstream tasks scheduled from follow-on schedule check

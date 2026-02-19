@@ -1,0 +1,13 @@
+[2026-01-29T19:57:47.022+0530] {taskinstance.py:1157} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: retail_etl_dag.generate_dimension_data scheduled__2026-01-28T00:00:00+00:00 [queued]>
+[2026-01-29T19:57:47.025+0530] {taskinstance.py:1157} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: retail_etl_dag.generate_dimension_data scheduled__2026-01-28T00:00:00+00:00 [queued]>
+[2026-01-29T19:57:47.025+0530] {taskinstance.py:1359} INFO - Starting attempt 1 of 1
+[2026-01-29T19:57:47.037+0530] {taskinstance.py:1380} INFO - Executing <Task(PythonOperator): generate_dimension_data> on 2026-01-28 00:00:00+00:00
+[2026-01-29T19:57:47.042+0530] {standard_task_runner.py:57} INFO - Started process 90828 to run task
+[2026-01-29T19:57:47.046+0530] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'retail_etl_dag', 'generate_dimension_data', 'scheduled__2026-01-28T00:00:00+00:00', '--job-id', '6', '--raw', '--subdir', 'DAGS_FOLDER/retail_etl_dag.py', '--cfg-path', '/tmp/tmpjsmm2iv9']
+[2026-01-29T19:57:47.046+0530] {standard_task_runner.py:85} INFO - Job 6: Subtask generate_dimension_data
+[2026-01-29T19:57:47.142+0530] {task_command.py:415} INFO - Running <TaskInstance: retail_etl_dag.generate_dimension_data scheduled__2026-01-28T00:00:00+00:00 [running]> on host 92839NehaDBDA
+[2026-01-29T19:57:47.170+0530] {taskinstance.py:1660} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='sunbeam' AIRFLOW_CTX_DAG_ID='retail_etl_dag' AIRFLOW_CTX_TASK_ID='generate_dimension_data' AIRFLOW_CTX_EXECUTION_DATE='2026-01-28T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2026-01-28T00:00:00+00:00'
+[2026-01-29T19:57:47.193+0530] {python.py:194} INFO - Done. Returned value was: None
+[2026-01-29T19:57:47.196+0530] {taskinstance.py:1398} INFO - Marking task as SUCCESS. dag_id=retail_etl_dag, task_id=generate_dimension_data, execution_date=20260128T000000, start_date=20260129T142747, end_date=20260129T142747
+[2026-01-29T19:57:47.217+0530] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2026-01-29T19:57:47.283+0530] {taskinstance.py:2776} INFO - 1 downstream tasks scheduled from follow-on schedule check

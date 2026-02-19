@@ -1,0 +1,1023 @@
+[2026-01-29T18:58:09.169+0530] {processor.py:157} INFO - Started process (PID=77951) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T18:58:09.170+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T18:58:09.170+0530] {logging_mixin.py:151} INFO - [2026-01-29T18:58:09.170+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T18:58:09.173+0530] {logging_mixin.py:151} INFO - [2026-01-29T18:58:09.172+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T18:58:09.173+0530] {logging_mixin.py:151} INFO - [2026-01-29T18:58:09.173+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T18:58:09.173+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T18:58:09.179+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.012 seconds
+[2026-01-29T18:58:55.670+0530] {processor.py:157} INFO - Started process (PID=78117) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T18:58:55.672+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T18:58:55.673+0530] {logging_mixin.py:151} INFO - [2026-01-29T18:58:55.673+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T18:58:55.678+0530] {logging_mixin.py:151} INFO - [2026-01-29T18:58:55.677+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T18:58:55.678+0530] {logging_mixin.py:151} INFO - [2026-01-29T18:58:55.678+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T18:58:55.678+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T18:58:55.689+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.022 seconds
+[2026-01-29T18:59:39.673+0530] {processor.py:157} INFO - Started process (PID=78274) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T18:59:39.676+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T18:59:39.677+0530] {logging_mixin.py:151} INFO - [2026-01-29T18:59:39.676+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T18:59:39.681+0530] {logging_mixin.py:151} INFO - [2026-01-29T18:59:39.680+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T18:59:39.681+0530] {logging_mixin.py:151} INFO - [2026-01-29T18:59:39.681+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T18:59:39.681+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T18:59:39.690+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.020 seconds
+[2026-01-29T19:00:27.145+0530] {processor.py:157} INFO - Started process (PID=78422) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:00:27.146+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:00:27.147+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:00:27.147+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:00:27.152+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:00:27.151+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:00:27.152+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:00:27.152+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:00:27.152+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:00:27.163+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.020 seconds
+[2026-01-29T19:01:12.331+0530] {processor.py:157} INFO - Started process (PID=78558) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:01:12.333+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:01:12.334+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:01:12.333+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:01:12.339+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:01:12.338+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:01:12.339+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:01:12.339+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:01:12.339+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:01:12.349+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.021 seconds
+[2026-01-29T19:01:58.591+0530] {processor.py:157} INFO - Started process (PID=78706) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:01:58.593+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:01:58.594+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:01:58.594+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:01:58.598+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:01:58.598+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:01:58.599+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:01:58.599+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:01:58.599+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:01:58.608+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.020 seconds
+[2026-01-29T19:02:46.085+0530] {processor.py:157} INFO - Started process (PID=78863) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:02:46.087+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:02:46.087+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:02:46.087+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:02:46.089+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:02:46.089+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:02:46.089+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:02:46.089+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:02:46.089+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:02:46.095+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.013 seconds
+[2026-01-29T19:03:31.378+0530] {processor.py:157} INFO - Started process (PID=79099) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:03:31.379+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:03:31.380+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:03:31.379+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:03:31.383+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:03:31.383+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:03:31.384+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:03:31.384+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:03:31.384+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:03:31.390+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.016 seconds
+[2026-01-29T19:04:14.894+0530] {processor.py:157} INFO - Started process (PID=79305) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:04:14.895+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:04:14.896+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:04:14.895+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:04:14.898+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:04:14.898+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:04:14.898+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:04:14.898+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:04:14.899+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:04:14.906+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.015 seconds
+[2026-01-29T19:05:00.046+0530] {processor.py:157} INFO - Started process (PID=79453) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:05:00.047+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:05:00.048+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:05:00.048+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:05:00.052+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:05:00.052+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:05:00.053+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:05:00.053+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:05:00.053+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:05:00.062+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.019 seconds
+[2026-01-29T19:05:45.164+0530] {processor.py:157} INFO - Started process (PID=79624) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:05:45.169+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:05:45.170+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:05:45.170+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:05:45.175+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:05:45.175+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:05:45.176+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:05:45.176+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:05:45.176+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:05:45.188+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.028 seconds
+[2026-01-29T19:06:27.577+0530] {processor.py:157} INFO - Started process (PID=79784) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:06:27.580+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:06:27.581+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:06:27.580+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:06:27.585+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:06:27.584+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:06:27.585+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:06:27.585+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:06:27.585+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:06:27.591+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.017 seconds
+[2026-01-29T19:07:23.046+0530] {processor.py:157} INFO - Started process (PID=79981) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:07:23.048+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:07:23.049+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:07:23.048+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:07:23.053+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:07:23.052+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:07:23.054+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:07:23.054+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:07:23.054+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:07:23.063+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.020 seconds
+[2026-01-29T19:08:09.365+0530] {processor.py:157} INFO - Started process (PID=80173) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:08:09.368+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:08:09.369+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:08:09.369+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:08:09.373+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:08:09.373+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:08:09.374+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:08:09.374+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:08:09.374+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:08:09.385+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.023 seconds
+[2026-01-29T19:08:55.023+0530] {processor.py:157} INFO - Started process (PID=80339) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:08:55.023+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:08:55.024+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:08:55.024+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:08:55.027+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:08:55.026+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:08:55.027+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:08:55.027+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:08:55.027+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:08:55.036+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.015 seconds
+[2026-01-29T19:09:38.829+0530] {processor.py:157} INFO - Started process (PID=80480) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:09:38.832+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:09:38.833+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:09:38.832+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:09:38.836+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:09:38.836+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:09:38.837+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:09:38.837+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:09:38.837+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:09:38.847+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.020 seconds
+[2026-01-29T19:10:28.229+0530] {processor.py:157} INFO - Started process (PID=80696) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:10:28.231+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:10:28.231+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:10:28.231+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:10:28.233+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:10:28.232+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:10:28.233+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:10:28.233+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:10:28.233+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:10:28.238+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.011 seconds
+[2026-01-29T19:11:14.656+0530] {processor.py:157} INFO - Started process (PID=80842) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:11:14.658+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:11:14.659+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:11:14.659+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:11:14.661+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:11:14.661+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:11:14.661+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:11:14.661+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:11:14.662+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:11:14.667+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.014 seconds
+[2026-01-29T19:12:00.246+0530] {processor.py:157} INFO - Started process (PID=80989) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:12:00.247+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:12:00.248+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:12:00.247+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:12:00.251+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:12:00.250+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:12:00.251+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:12:00.251+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:12:00.251+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:12:00.259+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.016 seconds
+[2026-01-29T19:12:49.922+0530] {processor.py:157} INFO - Started process (PID=81144) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:12:49.925+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:12:49.926+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:12:49.925+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:12:49.929+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:12:49.929+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:12:49.930+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:12:49.930+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:12:49.930+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:12:49.940+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.021 seconds
+[2026-01-29T19:13:37.046+0530] {processor.py:157} INFO - Started process (PID=81325) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:13:37.048+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:13:37.049+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:13:37.049+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:13:37.053+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:13:37.053+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:13:37.054+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:13:37.054+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:13:37.054+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:13:37.066+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.023 seconds
+[2026-01-29T19:14:24.671+0530] {processor.py:157} INFO - Started process (PID=81483) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:14:24.672+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:14:24.673+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:14:24.673+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:14:24.676+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:14:24.675+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:14:24.676+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:14:24.676+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:14:24.676+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:14:24.682+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.013 seconds
+[2026-01-29T19:15:07.280+0530] {processor.py:157} INFO - Started process (PID=81633) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:15:07.283+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:15:07.284+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:15:07.284+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:15:07.287+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:15:07.287+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:15:07.288+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:15:07.288+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:15:07.288+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:15:07.295+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.018 seconds
+[2026-01-29T19:15:53.662+0530] {processor.py:157} INFO - Started process (PID=81824) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:15:53.663+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:15:53.664+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:15:53.664+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:15:53.666+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:15:53.666+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:15:53.666+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:15:53.666+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:15:53.666+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:15:53.672+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.011 seconds
+[2026-01-29T19:17:14.671+0530] {processor.py:157} INFO - Started process (PID=82102) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:17:14.673+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:17:14.675+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:17:14.673+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:17:14.683+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:17:14.682+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:17:14.683+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:17:14.683+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:17:14.683+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:17:14.690+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.022 seconds
+[2026-01-29T19:17:58.611+0530] {processor.py:157} INFO - Started process (PID=82230) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:17:58.612+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:17:58.612+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:17:58.612+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:17:58.614+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:17:58.614+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:17:58.615+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:17:58.614+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:17:58.615+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:17:58.620+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.011 seconds
+[2026-01-29T19:18:43.914+0530] {processor.py:157} INFO - Started process (PID=82423) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:18:43.916+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:18:43.917+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:18:43.916+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:18:43.921+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:18:43.920+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:18:43.922+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:18:43.921+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:18:43.922+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:18:43.932+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.021 seconds
+[2026-01-29T19:19:28.397+0530] {processor.py:157} INFO - Started process (PID=82568) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:19:28.400+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:19:28.401+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:19:28.401+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:19:28.406+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:19:28.405+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:19:28.406+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:19:28.406+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:19:28.406+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:19:28.417+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.023 seconds
+[2026-01-29T19:20:17.309+0530] {processor.py:157} INFO - Started process (PID=82730) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:20:17.310+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:20:17.311+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:20:17.310+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:20:17.315+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:20:17.315+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:20:17.316+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:20:17.315+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:20:17.316+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:20:17.326+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.021 seconds
+[2026-01-29T19:21:12.156+0530] {processor.py:157} INFO - Started process (PID=82900) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:21:12.158+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:21:12.159+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:21:12.159+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:21:12.163+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:21:12.162+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:21:12.163+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:21:12.163+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:21:12.164+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:21:12.173+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.021 seconds
+[2026-01-29T19:21:58.482+0530] {processor.py:157} INFO - Started process (PID=83069) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:21:58.485+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:21:58.486+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:21:58.485+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:21:58.489+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:21:58.488+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:21:58.489+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:21:58.489+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:21:58.489+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:21:58.496+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.017 seconds
+[2026-01-29T19:22:45.389+0530] {processor.py:157} INFO - Started process (PID=83214) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:22:45.391+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:22:45.392+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:22:45.392+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:22:45.396+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:22:45.395+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:22:45.396+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:22:45.396+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:22:45.397+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:22:45.408+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.022 seconds
+[2026-01-29T19:23:30.433+0530] {processor.py:157} INFO - Started process (PID=83411) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:23:30.436+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:23:30.437+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:23:30.436+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:23:30.442+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:23:30.441+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:23:30.442+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:23:30.442+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:23:30.442+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:23:30.453+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.023 seconds
+[2026-01-29T19:24:25.614+0530] {processor.py:157} INFO - Started process (PID=83650) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:24:25.616+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:24:25.616+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:24:25.616+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:24:25.620+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:24:25.619+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:24:25.621+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:24:25.620+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:24:25.621+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:24:25.631+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.020 seconds
+[2026-01-29T19:24:32.315+0530] {processor.py:157} INFO - Started process (PID=83684) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:24:32.316+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:24:32.316+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:24:32.316+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:24:32.320+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:24:32.319+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:24:32.320+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:24:32.320+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:24:32.321+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:24:32.331+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.019 seconds
+[2026-01-29T19:25:08.883+0530] {processor.py:157} INFO - Started process (PID=83841) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:25:08.886+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:25:08.886+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:25:08.886+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:25:08.889+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:25:08.889+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:25:08.890+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:25:08.889+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:25:08.890+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:25:08.895+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.014 seconds
+[2026-01-29T19:25:43.699+0530] {processor.py:157} INFO - Started process (PID=84036) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:25:43.702+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:25:43.703+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:25:43.702+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:25:43.707+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:25:43.706+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:25:43.707+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:25:43.707+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:25:43.707+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:25:43.717+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.021 seconds
+[2026-01-29T19:25:57.065+0530] {processor.py:157} INFO - Started process (PID=84161) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:25:57.066+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:25:57.066+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:25:57.066+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:25:57.069+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:25:57.069+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:25:57.069+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:25:57.069+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:25:57.069+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:25:57.075+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.012 seconds
+[2026-01-29T19:26:30.235+0530] {processor.py:157} INFO - Started process (PID=84345) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:26:30.237+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:26:30.237+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:26:30.237+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:26:30.241+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:26:30.241+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:26:30.242+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:26:30.242+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:26:30.242+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:26:30.252+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.020 seconds
+[2026-01-29T19:26:42.302+0530] {processor.py:157} INFO - Started process (PID=84415) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:26:42.303+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:26:42.303+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:26:42.303+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:26:42.308+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:26:42.307+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:26:42.308+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:26:42.308+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:26:42.308+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:26:42.317+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.018 seconds
+[2026-01-29T19:27:15.228+0530] {processor.py:157} INFO - Started process (PID=84551) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:27:15.229+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:27:15.230+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:27:15.230+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:27:15.234+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:27:15.233+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:27:15.234+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:27:15.234+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:27:15.234+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:27:15.240+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.015 seconds
+[2026-01-29T19:28:01.227+0530] {processor.py:157} INFO - Started process (PID=84779) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:28:01.228+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:28:01.229+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:28:01.228+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:28:01.231+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:28:01.230+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:28:01.231+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:28:01.231+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:28:01.231+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:28:01.237+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.012 seconds
+[2026-01-29T19:28:44.348+0530] {processor.py:157} INFO - Started process (PID=84996) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:28:44.350+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:28:44.351+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:28:44.351+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:28:44.354+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:28:44.353+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:28:44.354+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:28:44.354+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:28:44.354+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:28:44.360+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.015 seconds
+[2026-01-29T19:29:29.081+0530] {processor.py:157} INFO - Started process (PID=85156) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:29:29.082+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:29:29.083+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:29:29.083+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:29:29.085+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:29:29.085+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:29:29.085+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:29:29.085+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:29:29.086+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:29:29.092+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.014 seconds
+[2026-01-29T19:30:12.822+0530] {processor.py:157} INFO - Started process (PID=85388) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:30:12.823+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:30:12.824+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:30:12.824+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:30:12.828+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:30:12.827+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:30:12.828+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:30:12.828+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:30:12.828+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:30:12.836+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.017 seconds
+[2026-01-29T19:30:57.181+0530] {processor.py:157} INFO - Started process (PID=85527) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:30:57.183+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:30:57.184+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:30:57.183+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:30:57.187+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:30:57.186+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:30:57.187+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:30:57.187+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:30:57.187+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:30:57.193+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.013 seconds
+[2026-01-29T19:31:39.273+0530] {processor.py:157} INFO - Started process (PID=85684) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:31:39.274+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:31:39.275+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:31:39.275+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:31:39.281+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:31:39.280+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:31:39.282+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:31:39.281+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:31:39.282+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:31:39.293+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.024 seconds
+[2026-01-29T19:32:24.498+0530] {processor.py:157} INFO - Started process (PID=85841) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:32:24.500+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:32:24.501+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:32:24.501+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:32:24.506+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:32:24.505+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:32:24.507+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:32:24.506+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:32:24.507+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:32:24.517+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.023 seconds
+[2026-01-29T19:33:10.347+0530] {processor.py:157} INFO - Started process (PID=86074) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:33:10.349+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:33:10.350+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:33:10.349+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:33:10.354+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:33:10.353+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:33:10.354+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:33:10.354+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:33:10.354+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:33:10.364+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.020 seconds
+[2026-01-29T19:57:23.709+0530] {processor.py:157} INFO - Started process (PID=90728) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:57:23.710+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:57:23.711+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:57:23.711+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:57:23.717+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:57:23.716+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:57:23.717+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:57:23.717+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:57:23.717+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:57:23.729+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.023 seconds
+[2026-01-29T19:58:29.124+0530] {processor.py:157} INFO - Started process (PID=91132) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:58:29.126+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:58:29.127+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:58:29.127+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:58:29.131+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:58:29.130+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:58:29.131+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:58:29.131+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:58:29.131+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:58:29.138+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.017 seconds
+[2026-01-29T19:59:16.215+0530] {processor.py:157} INFO - Started process (PID=91371) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:59:16.218+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T19:59:16.219+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:59:16.219+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:59:16.223+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:59:16.223+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T19:59:16.224+0530] {logging_mixin.py:151} INFO - [2026-01-29T19:59:16.224+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T19:59:16.224+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T19:59:16.235+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.023 seconds
+[2026-01-29T20:00:03.044+0530] {processor.py:157} INFO - Started process (PID=91563) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:00:03.045+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T20:00:03.045+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:00:03.045+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:00:03.047+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:00:03.047+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T20:00:03.047+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:00:03.047+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T20:00:03.047+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:00:03.052+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.011 seconds
+[2026-01-29T20:00:57.772+0530] {processor.py:157} INFO - Started process (PID=91903) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:00:57.775+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T20:00:57.776+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:00:57.775+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:00:57.780+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:00:57.779+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T20:00:57.780+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:00:57.780+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T20:00:57.780+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:00:57.790+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.021 seconds
+[2026-01-29T20:01:49.766+0530] {processor.py:157} INFO - Started process (PID=92127) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:01:49.767+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T20:01:49.767+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:01:49.767+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:01:49.770+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:01:49.770+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T20:01:49.770+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:01:49.770+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T20:01:49.771+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:01:49.780+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.018 seconds
+[2026-01-29T20:02:43.390+0530] {processor.py:157} INFO - Started process (PID=92381) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:02:43.391+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T20:02:43.392+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:02:43.392+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:02:43.394+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:02:43.394+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T20:02:43.394+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:02:43.394+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T20:02:43.394+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:02:43.400+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.012 seconds
+[2026-01-29T20:03:29.283+0530] {processor.py:157} INFO - Started process (PID=92616) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:03:29.284+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T20:03:29.285+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:03:29.285+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:03:29.287+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:03:29.287+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T20:03:29.287+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:03:29.287+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T20:03:29.287+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:03:29.293+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.012 seconds
+[2026-01-29T20:04:17.326+0530] {processor.py:157} INFO - Started process (PID=92884) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:04:17.329+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T20:04:17.329+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:04:17.329+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:04:17.333+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:04:17.332+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T20:04:17.333+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:04:17.333+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T20:04:17.333+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:04:17.343+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.020 seconds
+[2026-01-29T20:05:06.812+0530] {processor.py:157} INFO - Started process (PID=93108) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:05:06.815+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T20:05:06.816+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:05:06.816+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:05:06.820+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:05:06.820+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T20:05:06.821+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:05:06.821+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T20:05:06.821+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:05:06.830+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.021 seconds
+[2026-01-29T20:05:57.802+0530] {processor.py:157} INFO - Started process (PID=93385) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:05:57.803+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T20:05:57.803+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:05:57.803+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:05:57.805+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:05:57.805+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T20:05:57.806+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:05:57.806+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T20:05:57.806+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:05:57.812+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.012 seconds
+[2026-01-29T20:06:50.809+0530] {processor.py:157} INFO - Started process (PID=93652) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:06:50.811+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T20:06:50.812+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:06:50.811+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:06:50.815+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:06:50.814+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T20:06:50.815+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:06:50.815+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T20:06:50.815+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:06:50.821+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.015 seconds
+[2026-01-29T20:07:37.081+0530] {processor.py:157} INFO - Started process (PID=93862) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:07:37.083+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T20:07:37.084+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:07:37.084+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:07:37.087+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:07:37.087+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T20:07:37.088+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:07:37.088+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T20:07:37.088+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:07:37.097+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.019 seconds
+[2026-01-29T20:08:25.505+0530] {processor.py:157} INFO - Started process (PID=94110) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:08:25.508+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T20:08:25.509+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:08:25.509+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:08:25.514+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:08:25.513+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T20:08:25.514+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:08:25.514+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T20:08:25.514+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:08:25.525+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.023 seconds
+[2026-01-29T20:09:15.501+0530] {processor.py:157} INFO - Started process (PID=94347) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:09:15.504+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T20:09:15.505+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:09:15.504+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:09:15.510+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:09:15.509+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T20:09:15.510+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:09:15.510+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T20:09:15.510+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:09:15.523+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.025 seconds
+[2026-01-29T20:10:05.161+0530] {processor.py:157} INFO - Started process (PID=94563) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:10:05.164+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T20:10:05.164+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:10:05.164+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:10:05.167+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:10:05.167+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T20:10:05.168+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:10:05.168+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T20:10:05.168+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:10:05.175+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.017 seconds
+[2026-01-29T20:10:54.466+0530] {processor.py:157} INFO - Started process (PID=94752) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:10:54.467+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T20:10:54.469+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:10:54.468+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:10:54.474+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:10:54.473+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T20:10:54.474+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:10:54.474+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T20:10:54.475+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:10:54.487+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.025 seconds
+[2026-01-29T20:11:40.692+0530] {processor.py:157} INFO - Started process (PID=94994) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:11:40.694+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T20:11:40.695+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:11:40.695+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:11:40.699+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:11:40.698+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T20:11:40.699+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:11:40.699+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T20:11:40.699+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:11:40.709+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.020 seconds
+[2026-01-29T20:12:23.831+0530] {processor.py:157} INFO - Started process (PID=95173) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:12:23.834+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T20:12:23.835+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:12:23.835+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:12:23.840+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:12:23.839+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T20:12:23.840+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:12:23.840+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T20:12:23.841+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:12:23.852+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.024 seconds
+[2026-01-29T20:13:09.509+0530] {processor.py:157} INFO - Started process (PID=95458) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:13:09.511+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T20:13:09.512+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:13:09.512+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:13:09.516+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:13:09.515+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T20:13:09.516+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:13:09.516+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T20:13:09.516+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:13:09.524+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.019 seconds
+[2026-01-29T20:13:55.425+0530] {processor.py:157} INFO - Started process (PID=95653) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:13:55.427+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T20:13:55.428+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:13:55.428+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:13:55.433+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:13:55.432+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T20:13:55.433+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:13:55.433+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T20:13:55.433+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:13:55.441+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.020 seconds
+[2026-01-29T20:14:47.000+0530] {processor.py:157} INFO - Started process (PID=95883) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:14:47.002+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T20:14:47.003+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:14:47.003+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:14:47.006+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:14:47.006+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T20:14:47.006+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:14:47.006+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T20:14:47.006+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:14:47.013+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.016 seconds
+[2026-01-29T20:15:34.707+0530] {processor.py:157} INFO - Started process (PID=96074) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:15:34.710+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T20:15:34.711+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:15:34.710+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:15:34.715+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:15:34.714+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T20:15:34.715+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:15:34.715+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T20:15:34.716+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:15:34.726+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.022 seconds
+[2026-01-29T20:16:26.177+0530] {processor.py:157} INFO - Started process (PID=96318) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:16:26.178+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T20:16:26.178+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:16:26.178+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:16:26.182+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:16:26.182+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T20:16:26.183+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:16:26.183+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T20:16:26.183+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:16:26.193+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.020 seconds
+[2026-01-29T20:17:15.340+0530] {processor.py:157} INFO - Started process (PID=96546) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:17:15.341+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T20:17:15.342+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:17:15.342+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:17:15.346+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:17:15.345+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T20:17:15.346+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:17:15.346+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T20:17:15.346+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:17:15.355+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.018 seconds
+[2026-01-29T20:18:07.165+0530] {processor.py:157} INFO - Started process (PID=96828) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:18:07.167+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T20:18:07.168+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:18:07.167+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:18:07.171+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:18:07.170+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T20:18:07.171+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:18:07.171+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T20:18:07.171+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:18:07.178+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.015 seconds
+[2026-01-29T20:18:53.509+0530] {processor.py:157} INFO - Started process (PID=97034) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:18:53.511+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T20:18:53.512+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:18:53.511+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:18:53.516+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:18:53.516+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T20:18:53.517+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:18:53.517+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T20:18:53.517+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:18:53.525+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.020 seconds
+[2026-01-29T20:19:44.842+0530] {processor.py:157} INFO - Started process (PID=97288) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:19:44.844+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T20:19:44.845+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:19:44.844+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:19:44.849+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:19:44.848+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T20:19:44.849+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:19:44.849+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T20:19:44.850+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:19:44.860+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.022 seconds
+[2026-01-29T20:20:32.863+0530] {processor.py:157} INFO - Started process (PID=97489) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:20:32.865+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T20:20:32.866+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:20:32.865+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:20:32.869+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:20:32.868+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T20:20:32.869+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:20:32.869+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T20:20:32.869+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:20:32.875+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.015 seconds
+[2026-01-29T20:21:18.408+0530] {processor.py:157} INFO - Started process (PID=97672) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:21:18.411+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T20:21:18.412+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:21:18.411+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:21:18.415+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:21:18.414+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T20:21:18.415+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:21:18.415+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T20:21:18.415+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:21:18.423+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.018 seconds
+[2026-01-29T20:22:04.180+0530] {processor.py:157} INFO - Started process (PID=97916) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:22:04.181+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T20:22:04.182+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:22:04.182+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:22:04.187+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:22:04.186+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T20:22:04.187+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:22:04.187+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T20:22:04.187+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:22:04.196+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.020 seconds
+[2026-01-29T20:22:54.099+0530] {processor.py:157} INFO - Started process (PID=98109) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:22:54.102+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T20:22:54.103+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:22:54.103+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:22:54.108+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:22:54.107+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T20:22:54.108+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:22:54.108+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T20:22:54.108+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:22:54.117+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.022 seconds
+[2026-01-29T20:23:43.413+0530] {processor.py:157} INFO - Started process (PID=98407) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:23:43.415+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T20:23:43.416+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:23:43.416+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:23:43.421+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:23:43.420+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T20:23:43.421+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:23:43.421+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T20:23:43.421+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:23:43.429+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.019 seconds
+[2026-01-29T20:24:32.129+0530] {processor.py:157} INFO - Started process (PID=98681) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:24:32.130+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T20:24:32.131+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:24:32.130+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:24:32.134+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:24:32.133+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T20:24:32.134+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:24:32.134+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T20:24:32.134+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:24:32.142+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.016 seconds
+[2026-01-29T20:25:23.774+0530] {processor.py:157} INFO - Started process (PID=98943) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:25:23.776+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T20:25:23.777+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:25:23.776+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:25:23.779+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:25:23.779+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T20:25:23.780+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:25:23.780+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T20:25:23.780+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:25:23.787+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.015 seconds
+[2026-01-29T20:26:14.531+0530] {processor.py:157} INFO - Started process (PID=99189) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:26:14.533+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T20:26:14.534+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:26:14.534+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:26:14.539+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:26:14.538+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T20:26:14.539+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:26:14.539+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T20:26:14.539+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:26:14.549+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.022 seconds
+[2026-01-29T20:27:04.985+0530] {processor.py:157} INFO - Started process (PID=99444) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:27:04.987+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T20:27:04.988+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:27:04.988+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:27:04.993+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:27:04.992+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T20:27:04.993+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:27:04.993+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T20:27:04.993+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:27:05.001+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.021 seconds
+[2026-01-29T20:27:56.087+0530] {processor.py:157} INFO - Started process (PID=99689) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:27:56.088+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T20:27:56.089+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:27:56.089+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:27:56.092+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:27:56.091+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T20:27:56.092+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:27:56.092+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T20:27:56.092+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:27:56.103+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.020 seconds
+[2026-01-29T20:28:48.556+0530] {processor.py:157} INFO - Started process (PID=99964) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:28:48.559+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T20:28:48.560+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:28:48.560+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:28:48.566+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:28:48.565+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T20:28:48.566+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:28:48.566+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T20:28:48.567+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:28:48.577+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.025 seconds
+[2026-01-29T20:29:38.521+0530] {processor.py:157} INFO - Started process (PID=100186) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:29:38.525+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T20:29:38.527+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:29:38.526+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:29:38.532+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:29:38.531+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T20:29:38.532+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:29:38.532+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T20:29:38.532+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:29:38.544+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.026 seconds
+[2026-01-29T20:30:33.422+0530] {processor.py:157} INFO - Started process (PID=100448) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:30:33.425+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T20:30:33.426+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:30:33.426+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:30:33.431+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:30:33.430+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T20:30:33.431+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:30:33.431+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T20:30:33.431+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:30:33.441+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.023 seconds
+[2026-01-29T20:31:22.316+0530] {processor.py:157} INFO - Started process (PID=100642) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:31:22.319+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T20:31:22.319+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:31:22.319+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:31:22.322+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:31:22.322+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T20:31:22.323+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:31:22.323+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T20:31:22.323+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:31:22.330+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.017 seconds
+[2026-01-29T20:32:13.484+0530] {processor.py:157} INFO - Started process (PID=100888) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:32:13.486+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T20:32:13.487+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:32:13.487+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:32:13.492+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:32:13.491+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T20:32:13.493+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:32:13.492+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T20:32:13.493+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:32:13.504+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.024 seconds
+[2026-01-29T20:33:03.233+0530] {processor.py:157} INFO - Started process (PID=101107) to work on /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:33:03.235+0530] {processor.py:829} INFO - Processing file /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2026-01-29T20:33:03.236+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:33:03.235+0530] {dagbag.py:539} INFO - Filling up the DagBag from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:33:03.239+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:33:03.238+0530] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2026-01-29T20:33:03.239+0530] {logging_mixin.py:151} INFO - [2026-01-29T20:33:03.239+0530] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2026-01-29T20:33:03.239+0530] {processor.py:841} WARNING - No viable dags retrieved from /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2026-01-29T20:33:03.245+0530] {processor.py:179} INFO - Processing /home/sunbeam/Desktop/SUNBEAM/Big/big_data_project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.015 seconds
